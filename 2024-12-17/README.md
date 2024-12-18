@@ -55,13 +55,5 @@ This is a simple **React Native Cross-Platform Application** that displays an im
 
 ---
 
-## Future Enhancements
-
-- Add interactivity such as buttons or animations.  
-- Include a navigation bar for a multi-page app experience.  
-- Add dynamic content like API integration or local storage.  
-
----
-
 ### Output
 ![Output](./output.png)  
