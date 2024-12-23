@@ -1,12 +1,15 @@
 # IT3133 React Native Practicals 🚀
 
-Welcome to the **IT3133 React Native Practicals** repository! This project contains practical exercises and assignments to enhance your understanding of React Native concepts. It serves as a learning resource and demonstration of hands-on mobile app development using Expo.
+Welcome to the **IT3133 React Native Practicals** repository! This project contains the practical exercises and assignments for **Day 1** of the IT3133 React Native module. Further practicals and assignments will be continued in another repository (link provided below).
+
+#### New Repository: https://github.com/Sathmi1234/IT3133_React_Native_Practicals_New
+
 
 ---
 
 ## 📖 About the Project
 
-This repository is regularly updated with weekly practicals and assignments to support learning and applying modern mobile app development concepts using React Native and Expo. It serves as an evolving resource for mastering React Native through hands-on projects and exercises.
+This repository focuses on Day 1’s practicals, designed to introduce you to React Native concepts. For subsequent practicals, please refer to the continuation repository. These exercises aim to build a solid foundation in mobile app development using React Native and Expo.
 
 ---
 
@@ -24,37 +27,8 @@ This repository is regularly updated with weekly practicals and assignments to s
 | Date       |      | Details                                             |
 |------------|------|---------------------------------------------------|
 | 2024-12-17 | Day 1 | [View](./2024-12-17/)                      |
----
 
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sathmi1234/IT3133_ReactNativePracticals.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd IT3133_ReactNativePracticals
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the Expo development server:
-   ```bash
-   npm start
-   ```
-5. Use the Expo Go app on your mobile device to scan the QR code and preview the app.
-
----
-
-## 📂 Folder Structure
-
-```plaintext
-
-```
-
----
+Further practicals and assignments will be available in the continuation repository: [IT3133 React Native Practicals (Continued)](https://github.com/Sathmi1234/IT3133_React_Native_Practicals_New).
 
 ## 👩‍💻 Author
 
@@ -62,3 +36,4 @@ Developed by [Sathmi1234](https://github.com/Sathmi1234).
 Feel free to reach out for collaboration or questions!
 
 ---
+
